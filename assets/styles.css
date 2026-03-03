@@ -38,3 +38,7 @@ padding:10px 14px; border-radius:10px;
 text-decoration:none; font-weight:700;
 }
 footer { padding:25px 0 40px; color:var(--muted); }
+
+.social { list-style:none; padding:0; margin:8px 0 0; display:grid; gap:8px; }
+.social a { color: var(--text); text-decoration:none; }
+.social a:hover { text-decoration:underline; }
