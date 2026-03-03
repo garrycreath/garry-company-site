@@ -1,17 +1,33 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Garry Company</title>
-<style>
-body { font-family: system-ui, sans-serif; margin: 40px; max-width: 800px; }
-h1 { margin-bottom: 8px; }
-p { color: #444; }
-</style>
+<title>The Ameritalians</title>
+<meta name="description" content="The Ameritalians — practical solutions, real results." />
+<link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
-<h1>Garry Company</h1>
-<p>Professional solutions, delivered pragmatically.</p>
+<header class="wrap">
+<h1>The Ameritalians</h1>
+<nav>
+<a href="/">Home</a>
+<a href="/about.html">About</a>
+<a href="/contact.html">Contact</a>
+</nav>
+</header>
+
+<main class="wrap">
+<section class="hero">
+<h2>Practical solutions. Real results.</h2>
+<p>We help people and teams execute with clarity, speed, and consistency.</p>
+<a class="btn" href="/contact.html">Work with us</a>
+</section>
+</main>
+
+<footer class="wrap">
+<small>© <span id="y"></span> The Ameritalians</small>
+</footer>
+<script>document.getElementById('y').textContent = new Date().getFullYear()</script>
 </body>
 </html>
