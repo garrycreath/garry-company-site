@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>The Ameritalians | Move to Italy with Confidence</title>
+<meta name="description" content="We help Americans relocate to and thrive in Italy — with insider hacks, real-world strategies, and practical tools." />
+<link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+<header class="wrap">
+<h1>The Ameritalians</h1>
+<nav>
+<a href="/">Home</a>
+<a href="/about.html">About</a>
+<a href="/contact.html">Contact</a>
+</nav>
+</header>
+
+<main class="wrap">
+<section class="hero">
+<h2>Move to Italy with confidence.</h2>
+<p>We help Americans relocate to and thrive in Italy — with insider hacks, real-world strategies, and practical tools so you can live the Italian dream with clarity and confidence.</p>
+<a class="btn" href="/contact.html">Get in touch</a>
+</section>
+
+<section class="card">
+<h3>What We Offer</h3>
+<ul>
+<li>🇮🇹 <strong>Relocation Guides & Hacks</strong> — step-by-step playbooks to simplify moving to Italy</li>
+<li>📘 <strong>Digital Resources & Toolkits</strong> — checklists, apps, and templates to save time and money</li>
+<li>🎓 <strong>Courses & Workshops</strong> — structured learning on visas, real estate, culture, and logistics</li>
+<li>✈️ <strong>Planning & Strategy Resources</strong> — from short stays to full-time moves</li>
+<li>🤝 <strong>Community & Events</strong> — connect with fellow Ameritalians and get support</li>
+<li>📍 <strong>Real-World Tips & Culture Content</strong> — daily insights for living your best Italian life</li>
+</ul>
+</section>
+</main>
+
+<footer class="wrap">
+<small>
+© <span id="y"></span> The Ameritalians ·
+<a href="https://www.instagram.com/theameritalians/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+<a href="https://www.facebook.com/theameritalians" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+<a href="https://www.tiktok.com/@theameritalians" target="_blank" rel="noopener noreferrer">TikTok</a> ·
+<a href="https://www.youtube.com/@theameritalians" target="_blank" rel="noopener noreferrer">YouTube</a>
+</small>
+</footer>
+<script>document.getElementById('y').textContent = new Date().getFullYear()</script>
+</body>
+</html>
